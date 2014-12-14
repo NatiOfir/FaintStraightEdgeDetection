@@ -3,7 +3,7 @@ FaintStraightEdgeDetection
 
 Detector of faint straight edges in noisy images.
 
-This code implemnants the algorithm that id described in the following paper:
+This code implemants the algorithm that is described in the following paper:
 M. Galun, R. Basri and A. Brandt
 Multiscale edge detection and fiber enhancement using differences of oriented means 
 IEEE International Conference on Computer Vision, Rio De Janeiro, ICCV-07 (2007)
