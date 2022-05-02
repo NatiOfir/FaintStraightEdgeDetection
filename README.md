@@ -6,7 +6,7 @@ https://ieeexplore.ieee.org/document/8607091
 
 
 It runs fast but detects only straight edges.
-If you want to invest more run time and to get better quality of edge detection I suggest you to try the triangle solutions for example:
+If you want to invest more run time and to get better quality of edge detection I suggest to try the triangle solutions for example:
 https://github.com/NatiOfir/TrianglesEdgeDetection.git
 
 Usage in Matlab:
